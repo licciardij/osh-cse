@@ -1,1 +1,3 @@
-this is my first change for git
+this is my first change for git 
+
+now i have to change this a second time to show the process
